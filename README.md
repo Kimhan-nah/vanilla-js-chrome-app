@@ -1,2 +1,2 @@
-# vanilla-js-chrome-app
-Nomad Coder's Vanilla JS Challenge's Final Assignment
+# vanilla-js-challenge
+Nomad Coders Challenges : Vanilla JS Challenge

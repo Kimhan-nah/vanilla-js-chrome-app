@@ -1,0 +1,56 @@
+.hidden {
+	display: none;
+}
+
+body {
+	color: whitesmoke;
+	text-align: center;
+}
+
+button {
+	background-color: grey;
+	border: none;
+	color: white;
+	/* padding: 16px 32px; */
+	text-align: center;
+	display: inline-block;
+	/* font-size: 16px; */
+	margin: 4px 2px;
+	-webkit-transition-duration: 0.4s;
+	/* Safari */
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.button1 {
+	/* background-color: white; */
+	font-size: 25px;
+	background: none;
+	color: red;
+	/* border: 1px solid red; */
+}
+
+.button1:hover {
+	/* background-color: pink; */
+	background: none;
+	color: white;
+}
+
+input {
+	width: 250px;
+	height: 32px;
+	font-size: 15px;
+	border: 0;
+	border-radius: 15px;
+	outline: none;
+	padding-left: 10px;
+	background-color: white;
+}
+
+ul {
+	list-style: none;
+}
+
+span {
+	font-weight: bold;
+}
